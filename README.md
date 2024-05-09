@@ -47,7 +47,7 @@ cmake ..
 make
 ```
 
-This will generate the executable `LinkedList` in the `build` directory.
+This will generate the executables `LinkedList` and `LinkedList_test` in the `build` directory.
 
 ## Running Tests
 
